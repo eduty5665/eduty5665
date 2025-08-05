@@ -23,7 +23,7 @@
 </div><br>
 
 <div align="center">
-<a href="" target="_blank">
+<a href="https://eduty5665.github.io/Portifolio/" target="_blank">
      <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank">
   </a>
  <a href="https://www.linkedin.com/in/eduardo-lemes-185715239/" target="_blank">
