@@ -1,43 +1,11 @@
-<div>
-  
-  <h1 align="center">
-    👋 Olá! Eu sou o 
-    <a href="https://www.linkedin.com/in/eduardo-lemes-185715239/"> Eduardo Lemes </a>
-  </h1>
-  
-</div>
-
-<div align="center">
-  <a href="https://github.com/eduty5665/">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduty5665&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduty5665&theme=transparent&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
-<div align="center" valign="top"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div><br>
-
-<div align="center">
-<a href="https://portifolio-eduty.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank">
-  </a>
- <a href="https://www.linkedin.com/in/eduardo-lemes-185715239/" target="_blank">
-     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href = "mailto:edulucas.le43@gmail.com">
-     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/_eduty/" target="_blank">
-     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-<a href="https://www.facebook.com/eduardo.januario.5876/" target="_blank">
-     <img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
-  </a>
-
-</div>
-
+<div align="center"> <h1>Ola! Eu sou o Eduardo Lemes</h1> </div> <div align="center"> <a href="https://github.com/eduty5665"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduty5665&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&locale=pt-br&custom_title=Eduardo%20Lemes%20GitHub%20Stats"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduty5665&layout=compact&langs_count=8&theme=dracula&hide_border=false&locale=pt-br&custom_title=Most%20Used%20Languages"/> </a> </div>
+<div align="center"> <img alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img alt="TypeScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> <img alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img alt="PHP" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> <img alt="Node.js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> <img alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> </div>
+<div align="center"> <a href="https://portifolio-eduty.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"> </a> <a href="https://www.linkedin.com/in/eduardo-lemes-185715239/" target="_blank"> <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> <a href="mailto:edulucas.le43@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a> <a href="https://www.instagram.com/_eduty/" target="_blank"> <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a> <a href="https://www.facebook.com/eduardo.januario.5876/" target="_blank"> <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"> </a> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=eduty5665&theme=dracula&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub trophies"/> </div>
+Sobre mim
+Hoje estudo Analise e Desenvolvimento de Sistemas
+Tenho foco em front-end, back-end e automacoes
+Desenvolvo projetos com HTML, CSS, JavaScript, Python, PHP e Node.js
+Tambem crio bots para Discord com comandos personalizados e automacoes
+Estou sempre evoluindo meus projetos, aprendendo novas tecnologias e melhorando minha organizacao como desenvolvedor
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduty5665&bg_color=282a36&color=ff79c6&line=bd93f9&point=50fa7b&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Grafico de contribuicoes"/> </div>
